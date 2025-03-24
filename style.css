@@ -42,7 +42,7 @@ body{
 /* HERO  */
 
 .hero{
-    background-image: url('/assets/Background.png');
+    background-image: url('./assets/Background.png');
     background-size: cover;
     height: 100%;
     width: 100%;
